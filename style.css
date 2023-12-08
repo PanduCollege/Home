@@ -5,6 +5,14 @@ body{
     background-color: #010101;
     color: #eee;
 }
+button{
+    height: 30px;
+    border-radius: 5px;
+  }
+  button:hover{
+    background-color: yellow;
+    color: #000;
+  }
 .footer{
     font-size: 12px;
     text-align: center;
