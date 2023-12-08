@@ -240,7 +240,7 @@ header ul li:hover ul.dropdown{
         font-size: 60px;
     }
     .arrows{
-        top: 10%;
+        top: 85%;
     }
     .logo img{
         height: 50px;
@@ -275,7 +275,7 @@ header ul li ul.dropdown{
 }
 
 .arrows button{
-    margin-top: 470px;
+    margin-top: 10px;
 }
 .footer{
     font-size: 9px;
